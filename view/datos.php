@@ -1,5 +1,6 @@
 <?php
 	$Usuarios = array();
+
 	$usuario['paterno'] = 'GARCIA';
 	$usuario['materno'] = 'PEREZ';
 	$usuario['nombres'] = 'ALAN';

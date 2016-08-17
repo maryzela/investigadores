@@ -1,6 +1,5 @@
 <?php
 	require("cabecera.php");
-
 	require("menu.php");
 ?>
 
@@ -14,14 +13,14 @@
 					?>
 
 				</div>
-				
+
 			</div>
 		</div>
 
 	</div>
 <div class="container">
   <h2>Contextual Colors</h2>
-  
+
   <p class="text-warning">This text represents a warning.</p>
-  
+
 </div>

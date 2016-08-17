@@ -1,5 +1,3 @@
-<html>
-<body>
 	<?php
 	/*realiza conexion a la B. D.*/
 	define ('SERVIDOR','localhost');
@@ -29,15 +27,8 @@
 		2.- Apache debe tener como charset por defecto UTF-8(httpd.conf)
 		3.- PHP debe tener como charset por defecto UTF -8(php.ini)
 		4.- mysql debe tener charset por defecto UTF-8(my.ini)
-			
+
 		*/
-		echo "<h1>bien hecho conexion exitosa ala base de datos</h1>"; //Comentario
+		//echo "<h1>bien hecho conexion exitosa ala base de datos</h1>"; //Comentario
 		/* UTF-8 sirve para caracteres*/
 	?>
-	<!--comentario-->
-	<!--comentario-->
-	<!--comentario-->
-	<!--comentario-->
-	<!--comentario-->
-</body>
-</html>

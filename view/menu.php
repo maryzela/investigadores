@@ -18,6 +18,6 @@
 				<li><a href="javascript:void(0);" id="a-contacto">BUSCAR</a></li>
 				<li><a href="javascript:void(0);" id="a-salir">SALIR</a></li>
 			</ul>
-		</div><!--/.nav-collapse -->
+		</div>
 	</div>
 </div>
